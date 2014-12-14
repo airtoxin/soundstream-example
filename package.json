@@ -1,0 +1,15 @@
+{
+  "name": "soundstream",
+  "version": "1.0.0",
+  "description": "PCM sound stream",
+  "main": "sound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pcm": "^1.0.3",
+    "speaker": "^0.2.1"
+  }
+}
